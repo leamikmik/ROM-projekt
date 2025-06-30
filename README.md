@@ -5,3 +5,7 @@ Načrt dela:
 1. Pridobitev podatkov z Our World in Data
 2. Predstavitev podatkov z grafi
 3. Primerjava z drugimi državami in komentiranje opazk
+
+---
+# Video posnetek
+https://youtu.be/sLTVZPGvjMM
